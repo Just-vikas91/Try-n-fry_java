@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Leetcode 75 Question one Level easy
 class LeetCodeOne{
  public String mergeAlternatively(String word1, String word2){
     StringBuilder sb = new StringBuilder();
